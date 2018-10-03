@@ -102,8 +102,8 @@ def Menu():
 	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
 	print("            "+Blue+" @@               @@      @          @  @           @      "  )
 	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         "+Green+"V1.1")
-	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"Z-HACKER"+Grey+"]"+Blue+"____________________________")
-	print("     "+Blue+"________________________"+Grey+"["+Red+"Pick Your Poison"+Grey+"]"+Blue+"__________________________"+Reset+"\n")	
+	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"XxUzManNA"+Grey+"]"+Blue+"____________________________")
+	print("     "+Blue+"________________________"+Grey+"["+Red+"Aslan Neferler Tim"+Grey+"]"+Blue+"__________________________"+Reset+"\n")	
 	
 
 	for platform in menu_items:
@@ -154,7 +154,7 @@ def Banner():
 	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
 	print("            "+Blue+" @@               @@      @          @  @           @      "  )
 	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         "+Green+"V1.1")
-	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"Z-HACKER"+Grey+"]"+Blue+"____________________________")
+	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"XxUzManNA"+Grey+"]"+Blue+"____________________________")
 	print("     "+Blue+"___________________________"+Grey+" ["+Blue+Menu.module+Grey+"]"+Blue+"_____________________________"+Reset+"\n\n")
 
 	if Menu.module == "ADDSMTP":
