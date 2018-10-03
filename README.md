@@ -1,23 +1,21 @@
-# PhishX
+# Hacking
 
-Copyright 2018 PhishX
-
-![PHISHX](https://img.shields.io/badge/PhishX-v1.1-violet.svg?longCache=true&style=for-the-badge) ![PYTHON3.6](https://img.shields.io/badge/Python-3.6-green.svg?longCache=true&style=for-the-badge)
+Copyright 2018 Aslan Neferler Tim
 
 **PLAY WITH THE HUMAN ~MIND~**
 
 **ONLY DOWNLOAD IT HERE, DO NOT TRUST OTHER PLACES.**
 
 
-This is the official and only repository of the PhishX project.
+This is the official and only repository of the Hacking project.
 
-Written by: Z-Hacker - Twitter: [@\_DEF9](https://twitter.com/_DEF9), GitHub: [@zanyarjamal](https://github.com/zanyarjamal)
+Written by: Aslan Neferler Tim - Twitter: [Aslan Neferler Tim](https://twitter.com/aslaneferler).
 
 DISCLAIMER: This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
-Please read the LICENSE for the licensing of PhishX. 
+Please read the LICENSE for the licensing of Hacking. 
 
-[video demo](https://www.youtube.com/watch?v=C_Aa1yCPHF0)
+[video demo](https://www.youtube.com/channel/UC-kdOAXczn49MB6DQGhB-5A?view_as=subscriber)
 
 
 # Features
@@ -52,7 +50,7 @@ Please read the LICENSE for the licensing of PhishX.
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/weebsec/PhishX/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/GeoHackTeam/Hacking) here.
 
 
 
@@ -69,16 +67,14 @@ For bug reports or enhancements, please open an [issue](https://github.com/weebs
 
 **RUN THIS AS ROOT**
 ```bash
-$ git clone https://github.com/WeebSec/PhishX.git
-$ cd PhishX
+$ git clone https://github.com/GeoHackTeam/Hacking
+$ cd Hacking
 $ chmod +x installer.sh
 $ bash installer.sh
-$ python3 PhishX.py
+$ python3 hacking.py
 ```
 **Extra Info**
 The [y/N] Questions are case sensitive so either you answer with "y" or with "N"
-# SCREENSHOT
-![SS](https://raw.githubusercontent.com/WeebSec/PhishX/master/img/Screenshot%20from%202018-09-28%2016-39-25.png)
 
 
 
