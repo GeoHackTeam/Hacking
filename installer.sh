@@ -8,9 +8,9 @@ fi
 reset
 echo ""
 echo "                     #################################"
-echo "                                 -PHISHX- "
+echo "                                 -A.N.T- "
 echo "                     #################################"
-echo "                         [+]: MADE BY WEEBSEC :[+]"
+echo "                         [+]: MADE BY XxUzManNA :[+]"
 echo "                     #################################"
 echo ""
 echo "                           ONLY run this as ROOT"
