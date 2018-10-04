@@ -472,7 +472,7 @@ def Facebook():
 	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
 	print("            "+Blue+" @@               @@      @          @  @           @      "  )
 	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         ")
-	print(Blue+"                   \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|"+Green+"V1.2\n")
+	print(Blue+""+Green+"V1.2\n")
 	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
 
 	pic = str("https://graph.facebook.com/"+str(ID)+"/picture")
@@ -658,7 +658,7 @@ def Instagram():
 	print("            "+Blue+":@@@             @@@      @         @   @           @         "  )
 	print("            "+Blue+" @@               @@      @          @  @           @      "  )
 	print("            "+Blue+" @                 @  @@  @           @ @  @@       @         ")
-	print(Blue+"                \\|__|\\|__|\\|_______|\\|_______|\\|__| \\|__|\\|__|\\|__|"+Green+"V1.0\n")
+	print(Blue+"                "+Green+"V1.0\n")
 	print("                            "+Grey+"["+Green+"Attack Has Started"+Grey+"]"+Reset)
 
 
@@ -782,7 +782,7 @@ def Instagram():
 	os.system("pkill -9 ngrok")
 	os.system("pkill -9 php")
 
-	print("                             one last step!!\n")
+	print("                             By XxUzManNA!!\n")
 
 	IPZ=input(Grey+"["+Blue+"IP"+Grey+"]"+Green+": "+Reset)
 	OSZ=input(Grey+"["+Blue+"OS"+Grey+"]"+Green+": "+Reset)
@@ -969,7 +969,7 @@ def Quora():
 
 
 def banN():
-	print("""\033[01;32m\n                                 \033[1;31m.::^;. ,\n                                     \033[1;31m:;i   :i\n                                    \033[1;31m::i  :;i\n                              \033[1;31m..::i :;:i:;i\n                             \033[1;31m,i  :i::::::i\n                                 \033[1;31m;;::;;:;;\n                                 \033[1;34m: \033[01;32mo   \033[01;32mo \033[1;34m:\n                                 \033[1;34m;.  \033[01;32mn  \033[1;34m.;\n                                   \033[1;34m( \033[01;32mx \033[1;34m)\n                                    \033[1;34m^^^\n                                 \033[1;30m-[\033[0m@_DEF9\033[1;30m]\033[0m\n""")
+	print("""\033[01;32m\n                                 \033[1;31m.::^;. ,\n                                     \033[1;31m:;i   :i\n                                    \033[1;31m::i  :;i\n                              \033[1;31m..::i :;:i:;i\n                             \033[1;31m,i  :i::::::i\n                                 \033[1;31m;;::;;:;;\n                                 \033[1;34m: \033[01;32mo   \033[01;32mo \033[1;34m:\n                                 \033[1;34m;.  \033[01;32mn  \033[1;34m.;\n                                   \033[1;34m( \033[01;32mx \033[1;34m)\n                                    \033[1;34m^^^\n                                 \033[1;30m-[\033[0m@_A.N.T\033[1;30m]\033[0m\n""")
 
 
 
@@ -993,7 +993,7 @@ def ENDst():
 	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"GITHUB"+Grey+"]:"+Reset+" https://bit.ly/2xX878u")
 	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"TWITTER"+Grey+"]:"+Reset+" https://bit.ly/2zOx9rC")
 	print(Grey+" ["+Green+"!"+Grey+"]-["+Green+"YOUTUBE"+Grey+"]:"+Reset+" https://bit.ly/2P6BADf")
-	print(Grey+" ["+Green+"+"+Grey+"]-["+Green+"A.N.T"+Grey+"]:"+Reset+" n")
+	print(Grey+" ["+Green+"+"+Grey+"]-["+Green+"A.N.T"+Grey+"]:"+Reset+" Aslan Neferler Tim")
 	print('                              '+Reset+'-'+Grey+'By X:xUzManN/A/'+Reset+'-\n')
 	sys.exit(0)
 
